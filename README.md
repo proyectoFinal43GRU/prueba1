@@ -8,3 +8,4 @@
 7.- git commit --amend
 (salir tecla Esc + : + w + q + !)
 8.- git checkout -b rama-uno
+9.- git branch
