@@ -13,3 +13,4 @@
 11. merge rama-uno
 12. git branch -d rama-uno
 13. git push
+14. git commit -am
