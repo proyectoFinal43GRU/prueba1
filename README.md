@@ -1,6 +1,6 @@
 #Comadnos basicos de  git 
 1. git init
-2. git adasdfasdfasdfd . 
+2. git add . 
 3. git reset .
 4. git commit -m "mensaje"
 5. git checkout -- .
@@ -10,7 +10,7 @@
 8. git checkout -b rama-uno
 9. git branch
 10. git checkout master
-11. merge rama-uno
+11. git merge rama-uno
 12. git branch -d rama-uno
 13. git push
 14. git commit -am
